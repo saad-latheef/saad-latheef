@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saad Abdul Latheef</h1>
 <h3 align="center">A backend developer from Kerala, India</h3>
 
-- 🔭 I’m currently working on **Flask**
+- 🔭 I’m currently working on **React JS**
 
 - 🌱 I’m currently learning **Python, C#, JS**
 
